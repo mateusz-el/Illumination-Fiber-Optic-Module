@@ -1,7 +1,7 @@
-# Light-meadow
+# Light-meadow - Illumination Fiber Optic Module
 
 POLISH 
-Projekt wykonano w ramach studiów na Politechnice Łódzkiej na kierunku elektronika i telekomunikacja. Projekt ten polegal na zaprojektowaniu, zbudowaniu i zaprogramowaniu łąki światłowodowej. Zespół projektowy składał się z 5 osób, z czego ja wykonałem 100% powierzonych zadań oraz jeszcze pomogłem koledze znacząco w jego trudnej części elektronicznej.
+Projekt wykonano w ramach studiów na Politechnice Łódzkiej na kierunku elektronika i telekomunikacja. Projekt ten polegal na zaprojektowaniu, zbudowaniu i zaprogramowaniu iluminacyjnego modułu światłowodowego. Zespół projektowy składał się z 5 osób, z czego ja wykonałem 100% powierzonych zadań oraz jeszcze pomogłem koledze znacząco w jego trudnej części elektronicznej.
 
 Założenia projektu:
 • Łąka miniaturowa, ograniczona na pudełku około 30x15cm.
@@ -21,7 +21,7 @@ Finalnie płytka finałowa nie działała, ponieważ sterownik od Texas Instrume
 
 
 ENGLISH
-The project was carried out as part of studies at the Lodz University of Technology in the field of electronics and telecommunications. This project consisted of designing, building and programming a fiber optic meadow. The project team consisted of 5 people, of whom I completed 100% of the assigned tasks and also helped my colleague significantly with his difficult electronic part.
+The project was carried out as part of studies at the Lodz University of Technology in the field of electronics and telecommunications. This project involved the design, construction and programming of a fiber optic illumination module. The project team consisted of 5 people, of whom I completed 100% of the assigned tasks and also helped my colleague significantly with his difficult electronic part.
 
 Project assumptions:
 • Miniature meadow, limited to a box of about 30x15cm.

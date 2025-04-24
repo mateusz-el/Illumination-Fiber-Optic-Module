@@ -13,7 +13,7 @@ Założenia projektu:
 Co zrobiłem?
 1. Zaprojektowałem wiele modeli kwiatów 3D oraz inne elementy mocujące płytkę drukowaną w programie Autodesk Fusion oraz wydrukowałem je na uczelnianej drukarce 3D.
 2. Sprawdzałem wydrukowane modele, który z nich będzie najbardziej odpowiedni oraz dawał najlepszy efekt świecenia.
-3. Równolegle pomagałem także koledze, zajmującemu się częścią elektroniczną, czyli wspólne projektowanie płytki elektronicznej zarówno prototypowej jak i finałowej.
+3. Równolegle pomagałem także koledze, zajmującemu się częścią elektroniczną, czyli wspólne projektowanie płytki elektronicznej zarówno prototypowej jak i finałowej w programie EasyEDA.
 4. Pomagałem po części także przy lutowaniu elementów SMD na płytce takich jak diody LED i inne.
 5. Znalazłem przyczynę nie działania płytki prototypowej (zimne luty) po czym je naprawiłem. Wykazałem się w ten sposób umiejętnością weryfikacji, znajdywania błędów w połączeniach i ich naprawie.
 
@@ -34,7 +34,7 @@ What did I do?
 1. I designed many 3D flower models and other elements securing the PCB in Autodesk Fusion and printed them on the university 3D printer.
 2. I checked the printed models to see which one would be the most suitable and would give the best lighting effect.
 
-3. At the same time, I also helped a colleague who was dealing with the electronics part, i.e. joint design of the electronic board, both the prototype and the final one.
+3. At the same time, I also helped a colleague who was dealing with the electronics part, i.e. joint design of the electronic board, both the prototype and the final one in EasyEDA.
 
 4. I also helped in part with soldering SMD elements on the board, such as LEDs and others.
 

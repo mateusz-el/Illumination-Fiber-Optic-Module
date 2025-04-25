@@ -1,6 +1,7 @@
 #Illumination Fiber Optic Module - Light-meadow
 
-POLISH 
+POLISH
+Status projektu: zakończony
 Projekt wykonano w ramach studiów na Politechnice Łódzkiej na kierunku elektronika i telekomunikacja. Projekt ten polegal na zaprojektowaniu, zbudowaniu i zaprogramowaniu iluminacyjnego modułu światłowodowego. Zespół projektowy składał się z 5 osób, z czego ja wykonałem 100% powierzonych zadań oraz jeszcze pomogłem koledze znacząco w jego trudnej części elektronicznej.
 
 Założenia projektu:
@@ -21,6 +22,7 @@ Finalnie płytka finałowa nie działała, ponieważ sterownik od Texas Instrume
 
 
 ENGLISH
+Project Status: Completed
 The project was carried out as part of studies at the Lodz University of Technology in the field of electronics and telecommunications. This project involved the design, construction and programming of a fiber optic illumination module. The project team consisted of 5 people, of whom I completed 100% of the assigned tasks and also helped my colleague significantly with his difficult electronic part.
 
 Project assumptions:

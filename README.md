@@ -1,4 +1,4 @@
-# Light-meadow - Illumination Fiber Optic Module
+#Illumination Fiber Optic Module - Light-meadow
 
 POLISH 
 Projekt wykonano w ramach studiów na Politechnice Łódzkiej na kierunku elektronika i telekomunikacja. Projekt ten polegal na zaprojektowaniu, zbudowaniu i zaprogramowaniu iluminacyjnego modułu światłowodowego. Zespół projektowy składał się z 5 osób, z czego ja wykonałem 100% powierzonych zadań oraz jeszcze pomogłem koledze znacząco w jego trudnej części elektronicznej.
